@@ -54,22 +54,22 @@ GitHub: https://github.com/YOUR_GITHUB_USERNAME
 # 📝 Publications
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">IET CTA 2024</div>
-      <img src='images/500x300.png' alt="paper" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-image'>
+<div>
+<div class="badge">IET CTA 2024</div>
+<img src='images/500x300.png' alt="paper" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
 
 **Minimal-Cost Route Planning via Fibonacci-Heap-Typed Data Structure**  
 **Wangjia Zhan**, Haohao Qiu, Bo Min, Lin Lin  
 *IET Control Theory & Applications*, Sep. 2024
 
 - Modeled minimal-cost route planning with **MDPs** and converted it into a **directed graph** framework.  
-- Implemented **Edmonds’ algorithm** and improved it with a **Fibonacci heap**, reducing time complexity from **O(mn)** to **O(m + n log n)**.  
-<!-- TODO: add DOI / official link if you have it -->
-  </div>
+- Implemented **Edmonds’ algorithm** and improved it with a **Fibonacci heap**, reducing time complexity from **O(mn)** to **O(m + n log n)**.
+
+</div>
 </div>
 
 ---
